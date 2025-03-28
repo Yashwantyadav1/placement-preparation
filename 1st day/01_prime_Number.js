@@ -11,4 +11,4 @@ function isprime(n){
     return `${n} is a prime number `
 
 }
-console.log(isprime(23));
+console.log(isprime(47));
