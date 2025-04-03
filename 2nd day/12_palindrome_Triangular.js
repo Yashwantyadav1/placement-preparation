@@ -13,6 +13,7 @@ function palindromeTriangular(n){
         }
         triangle += "\n";
     }
+    
     console.log(triangle);
 }
 palindromeTriangular(6);
