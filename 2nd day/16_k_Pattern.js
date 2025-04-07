@@ -6,7 +6,7 @@ function Kpattern(n){
         }
         Pattern +="\n";
     }
-    for(let i=0;i<=n;i++){
+    for(let i=0;i<n;i++){
         for(let j=0;j<=i;j++){
             Pattern +="* ";
         }
@@ -14,4 +14,4 @@ function Kpattern(n){
     }
     console.log(Pattern);
 }
-Kpattern(5);
+Kpattern(8);
