@@ -1,0 +1,3 @@
+function SecondHeighestNumber(n){
+    
+}
