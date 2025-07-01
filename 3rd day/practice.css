@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+   display:flex; 
+}
+body{
+    background-color: aqua;
+}
+nav ul li{
+    display: flex;
+}
